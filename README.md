@@ -11,7 +11,49 @@ I also used the [Pagila](https://wiki.postgresql.org/wiki/Sample_Databases) popu
 
 **Pagila: Based on MySQL's replacement for World, Sakila, which is itself inspired by the Dell DVD Store.**
 
-## Thanks
+# Some of the most common basic operators used in SQL
+
+----
+
+OPERATOR                        |  DESCRIPTION               
+----
+
+          ==         | Equal 
+          
+          >          | Greater than 
+          
+          <          | Less than 
+
+          >=         | Greater than or equal 
+
+          <=         | Less than or equal 
+
+       <> or !=      | Not equal 
+
+         AND         | Logical operator AND
+
+             OR      | Logical operator OR
+
+
+       
+### SELECT Statement
+
+
+SELECT statement..
+
+Note:  The SQL key words should always be in uppercase.
+
+From the dvd store we will use some select statements and other basic query syntax.
+
+Let's see what's on the store table.
+
+
+    SELECT * from actor;   
+
+    -- This is a comment and " ; " signifies the end of a statement 
+
+    -- " * " means that is grabbing all of it on the table.
+
 
 
 
