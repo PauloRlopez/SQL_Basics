@@ -64,11 +64,7 @@ Let's see what's on the store table.
 
 
 
-![Alt text](https://github.com/PauloRlopez/SQL_Basics/blob/master/Images/filmTable.png?raw= "filmTable")
-
-
-
-
+![Alt text](https://github.com/PauloRlopez/SQL_Basics/blob/master/Images/filmtable.png?raw= "filmTable")
 
 
 
