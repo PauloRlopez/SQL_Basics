@@ -44,4 +44,4 @@ OPERATOR                        |  DESCRIPTION
              OR      | Logical operator OR
 
 
-## Thank you very much!  Everyone!
+### Thank you very much!  
