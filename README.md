@@ -52,18 +52,13 @@ From the dvd store we will use some select statements and other basic query synt
 
 Let's see what's on the store table.
 
-
-    SELECT * from actor;   
-
     -- This is a comment and " ; " signifies the end of a statement 
 
     -- " * " means that is grabbing all of it on the table.
+    SELECT * from film;   
 
-
-
-
-
-
+ 
+Here is the depiction:
 ![Alt text](https://github.com/PauloRlopez/SQL_Basics/blob/master/Images/filmtable.png?raw= "filmTable")
 
 
