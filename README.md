@@ -5,11 +5,16 @@
 
 > Individual project:
 
-1.  Using Postresql and using pgAdmin along with SQL scripts.
+1.  Using PostreSQL and using pgAdmin.
 
 I also used the [Pagila](https://wiki.postgresql.org/wiki/Sample_Databases) popular database example for PostreSQL. 
 
 **Pagila: Based on MySQL's replacement for World, Sakila, which is itself inspired by the Dell DVD Store.**
+
+
+2. After installing both PostreSQL and pgAdmin the Database was created.
+
+
 
 # Some of the most common basic operators used in SQL
 
