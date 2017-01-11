@@ -3,11 +3,15 @@
 
 ## Usage
 
-> Individual project by using Postresql and using pgAdmin. I also used the [Pagila] https://wiki.postgresql.org/wiki/Sample_Databases
+> Individual project:
 
-Pagila: Based on MySQL's replacement for World, Sakila, which is itself inspired by the Dell DVD Store.
+1.  Using Postresql and using pgAdmin along with SQL scripts.
 
+I also used the [Pagila](https://wiki.postgresql.org/wiki/Sample_Databases) popular database example for PostreSQL. 
 
+**Pagila: Based on MySQL's replacement for World, Sakila, which is itself inspired by the Dell DVD Store.**
+
+## Thanks
 
 
 
