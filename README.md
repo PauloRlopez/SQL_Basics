@@ -25,7 +25,7 @@ I also used the [Pagila](https://wiki.postgresql.org/wiki/Sample_Databases) popu
 OPERATOR                        |  DESCRIPTION               
 ----
 
-          ==         | Equal 
+           =         | Equal 
           
           >          | Greater than 
           
