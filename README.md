@@ -9,7 +9,7 @@
 
     Using PostreSQL and using pgAdmin after the Udemy class of Jose Portilla: The Complete SQL Camp!
     
-    Here you wil find my assignments according to the class.  
+    Here you wilL find my version of the assignments according to the class.  
 
 I also used the [Pagila](https://wiki.postgresql.org/wiki/Sample_Databases) popular database example for PostreSQL. 
 
