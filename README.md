@@ -45,3 +45,6 @@ OPERATOR                        |  DESCRIPTION
 
 
 ### Thank you, very much!  
+
+Note:  The database [postreSQL](https://www.pgadmin.org/licence.php) can be use according to their terms.
+
