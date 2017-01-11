@@ -16,7 +16,7 @@ Let's see what's on the film table.
 
     -- The asterik symbol " * " means that is grabbing all of it on the table.
     
-    SELECT * from film;   
+    SELECT * FROM film;   
 
  
 Here is the depiction:
