@@ -1,5 +1,5 @@
 
-# SELECT WHERE Statement
+# Some of the most common basic operators used in SQL
 
 ----
 
@@ -7,7 +7,9 @@ OPERATOR                        |  DESCRIPTION
 ----
 
           ==         | Equal 
+          
           >          | Greater than 
+          
           <          | Less than 
 
           >=         | Greater than or equal 
@@ -22,24 +24,3 @@ OPERATOR                        |  DESCRIPTION
 
 
        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
