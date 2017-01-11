@@ -24,7 +24,7 @@ Same as above but we are going to look for amounts not equal to 13.99, like this
     
 ![Alt text](https://github.com/PauloRlopez/SQL_Basics/blob/master/Images/ex6.png?raw="ex6")
 
-####   **SELECT WHERE CHALLENGE**
+####   **SELECT WHERE CHALLENGE/QUESTIONS**
 
 1.  How many customers have the first name Jared?
 
@@ -61,3 +61,4 @@ Same as above but we are going to look for amounts not equal to 13.99, like this
 
 ![Alt text](https://github.com/PauloRlopez/SQL_Basics/blob/master/Images/challenge4.png?raw="challenge4")
 
+That's it. 
