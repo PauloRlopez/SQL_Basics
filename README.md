@@ -7,7 +7,9 @@
 
 > Individual project:
 
-    Using PostreSQL and using pgAdmin.
+    Using PostreSQL and using pgAdmin after the Udemy class of Jose Portilla: The Complete SQL Camp!
+    
+    Here you wil find my assignments according to the class.  
 
 I also used the [Pagila](https://wiki.postgresql.org/wiki/Sample_Databases) popular database example for PostreSQL. 
 
@@ -42,3 +44,4 @@ OPERATOR                        |  DESCRIPTION
              OR      | Logical operator OR
 
 
+## Thank you very much!  Everyone!
