@@ -52,9 +52,9 @@ From the dvd store we will use some select statements and other basic query synt
 
 Let's see what's on the film table.
 
-    -- This is a comment and " ; " signifies the end of a statement 
+    -- This is a comment and the semicolon " ; " signifies is the end of a statement.
 
-    -- " * " means that is grabbing all of it on the table.
+    -- The asterik symbol " * " means that is grabbing all of it on the table.
     
     SELECT * from film;   
 
