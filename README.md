@@ -50,11 +50,12 @@ Note:  The SQL key words should always be in uppercase.
 
 From the dvd store we will use some select statements and other basic query syntax.
 
-Let's see what's on the store table.
+Let's see what's on the film table.
 
     -- This is a comment and " ; " signifies the end of a statement 
 
     -- " * " means that is grabbing all of it on the table.
+    
     SELECT * from film;   
 
  
