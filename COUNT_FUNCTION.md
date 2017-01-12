@@ -12,11 +12,15 @@ From the previous database we can grab all the number of items in the payment ta
 
 
      SELECT COUNT(*) FROM payment;
+     
+![Alt text](https://github.com/PauloRlopez/SQL_Basics/blob/master/Images/count1.png?raw="count1")
 
 Now we can use it with DISTINCT as well;
 
      SELECT(DISTINCT amount) 
      FROM payment;
+
+![Alt text](https://github.com/PauloRlopez/SQL_Basics/blob/master/Images/count2.png?raw="count2")
 
 ___
 
