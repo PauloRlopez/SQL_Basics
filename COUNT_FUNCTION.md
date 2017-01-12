@@ -5,6 +5,9 @@
 
 > The COUNT (*) function returns the number of items in a group, including NULL values and duplicates that matches a specific condition of a query. 
 
+We can also use COUNT (ALL) which will return the number of non-null values.
+Also, the COUNT (DISTINCT) will return in a group or row the number of unique non-null values.
+
 ----
 ## usage and examples
 
